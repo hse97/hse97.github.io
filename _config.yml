@@ -16,7 +16,11 @@ timezone:
 
 title: Braden Jaime Lubrani # the main title
 
-tagline: Computer Science and Cybersecurity student, D1 eAthlete, and art collector. # it will display as the sub-title
+tagline: 
+  Computer Science
+  Cybersecurity student
+  D1 eAthlete 
+  Art collector. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My personal and professional blog, website, legacy, and whatever else. 
